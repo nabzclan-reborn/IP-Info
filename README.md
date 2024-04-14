@@ -15,7 +15,7 @@ V1.0:
 
 # API Docs
 
-[https://support.api-aries.online/hc/articles/1/3/13/p12-password-cracker](https://support.api-aries.online/hc/articles/1/3/8/ip-lookup-api)
+[https://support.api-aries.online/hc/articles/1/3/8/ip-lookup-api](https://support.api-aries.online/hc/articles/1/3/8/ip-lookup-api)
 
 
 
