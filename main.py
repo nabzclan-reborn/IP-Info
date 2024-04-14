@@ -37,8 +37,8 @@ def main():
 
     if args.ip:
         # REQUIRED
-        token_type = "1" # token type :  https://support.api-aries.online/hc/articles/1/3/13/p12-password-cracker#token-types-required
-        api_key = "111-111-111"  #API Token : https://support.api-aries.online/hc/articles/1/3/13/p12-password-cracker
+        token_type = "1" # token type :  https://support.api-aries.online/hc/articles/1/3/8/ip-lookup-api#token-types-required
+        api_key = "111-111-111"  #API Token : https://support.api-aries.online/hc/articles/1/3/8/ip-lookup-api
         get_ip_location(args.ip, token_type, api_key)
     else:
         print(Fore.RED + "Please provide an IP address.")
