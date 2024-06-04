@@ -1,5 +1,5 @@
 # IP-Info
-Get an IP info and location
+Get someones IP info and location
 
 # install python packages
 
