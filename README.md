@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 # run script
 
-python3 main.py -ip ip here
+python3 main.py -ip 111.1111.1111
 
 # changelogs
 
